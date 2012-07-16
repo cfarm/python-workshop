@@ -4,3 +4,5 @@ This repo contains the materials to run a Python Workshop, with applicable proje
 
 ## Projects
 [ColorWall](https://openhatch.org/wiki/Boston_Python_Workshop/Saturday/ColorWall)
+
+[Twitter]
